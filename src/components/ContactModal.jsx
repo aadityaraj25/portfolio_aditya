@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from 'react'
 import './ContactModal.css'
 
 const EMAIL = 'arj25022005@gmail.com'
-const NAME = 'Aditya Raj'
+const NAME = 'Aditya Raj Sharma'
 const ROLE = 'Backend Developer · ABES Engineering College'
 
 const socials = [

@@ -65,7 +65,7 @@ export default function Hero({ onContactClick }) {
         <h1 className="hero-title">
           <span className="hero-greeting">Hi, I'm</span>
           <br />
-          <span className="hero-name">Aditya Raj</span>
+          <span className="hero-name">Aditya Raj Sharma</span>
         </h1>
 
         <p className="hero-role">

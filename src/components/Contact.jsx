@@ -88,7 +88,7 @@ export default function Contact({ onContactClick }) {
               <pre className="contact-code">
                 <code>
 {`const collaborate = {
-  name: "Aditya Raj",
+  name: "Aditya Raj Sharma",
   role: "Backend Developer",
   openTo: [
     "REST API design",
